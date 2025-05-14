@@ -1,22 +1,22 @@
-# 👋 Merhaba, Ben Resul Çalışkan!
+# 👋 Hi, I'm Resul Çalışkan!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=2E9FDD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Developer;Python+Developer;.NET+Developer;NLP+%26+LLM+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-- 🎓 Bilgisayar Mühendisliği mezunu (3.37 GPA)
-- 💻 Full Stack Developer ve AI Developer adayı
-- 🌱 Sürekli öğrenmeyi ve yeni teknolojileri keşfetmeyi seviyorum
-- 🔭 Şu anda AI, NLP ve LLM teknolojileri üzerine çalışıyorum
-- 🤖 Hedefim: AI Developer olmak
+- 🎓 Graduated in Computer Engineering (3.37 GPA)  
+- 💻 Aspiring Full Stack Developer and AI Developer  
+- 🌱 Passionate about continuous learning and exploring new technologies  
+- 🔭 Currently working on AI, NLP, and LLM technologies  
+- 🤖 Goal: To become a professional AI Developer  
 
-## 🛠️ Teknoloji Stack'im
+## 🛠️ My Tech Stack
 
 <div align="center">
-  
-### 💻 Programlama Dilleri
+
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,7 +25,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧰 Frameworks & Kütüphaneler
+### 🧰 Frameworks & Libraries
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -35,20 +35,20 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-### 🗄️ Veritabanları
+### 🗄️ Databases
 
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🔧 Araçlar
+### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🤖 Yapay Zeka & ML
+### 🤖 AI & ML
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -59,17 +59,17 @@
 
 </div>
 
-## 📊 GitHub İstatistiklerim
+## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Resul-Caliskan&show_icons=true&theme=radical" alt="GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Resul-Caliskan&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Resul-Caliskan&theme=radical" alt="GitHub Streak Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resul-Caliskan&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resul-Caliskan&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🌟 Öne Çıkan Projelerim
+## 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/Resul-Caliskan/zekiApp">
@@ -80,7 +80,7 @@
   </a>
 </div>
 
-## 🔗 Bağlantılar
+## 🔗 Links
 
 <div align="center">
   <a href="https://www.linkedin.com/in/resul-caliskan/" target="_blank">
