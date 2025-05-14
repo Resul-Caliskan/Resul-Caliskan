@@ -72,10 +72,10 @@
 ## 🌟 Öne Çıkan Projelerim
 
 <div align="center">
-  <a href="https://github.com/Resul-Caliskan/WeightLifting-App">
+  <a href="[https://github.com/Resul-Caliskan/WeightLifting-App](https://github.com/Resul-Caliskan/CV-Extraction-Ai)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Resul-Caliskan&repo=WeightLifting-App&theme=radical" />
   </a>
-  <a href="https://github.com/Resul-Caliskan/dotNetCore_JWT_App">
+  <a href="[https://github.com/Resul-Caliskan/dotNetCore_JWT_App](https://github.com/Resul-Caliskan/zekiApp)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Resul-Caliskan&repo=dotNetCore_JWT_App&theme=radical" />
   </a>
 </div>
@@ -83,10 +83,10 @@
 ## 🔗 Bağlantılar
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/resulcaliskan/" target="_blank">
+  <a href="[https://www.linkedin.com/in/resulcaliskan/](https://www.linkedin.com/in/resul-caliskan/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:resulcaliskan@hotmail.com">
+  <a href="mailto:resulcaliskansau@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Resul-Caliskan">
