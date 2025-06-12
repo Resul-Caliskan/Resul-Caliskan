@@ -10,7 +10,9 @@
 - 💻 Aspiring Full Stack Developer and AI Developer  
 - 🌱 Passionate about continuous learning and exploring new technologies  
 - 🔭 Currently working on AI, NLP, and LLM technologies  
-- 🤖 Goal: To become a professional AI Developer  
+- 🤖 Goal: To become a professional AI Developer
+
+
 ## 🔗 Links
 
 <div align="center">
@@ -23,7 +25,12 @@
   <a href="https://github.com/Resul-Caliskan">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+<a href="https://resul-caliskan.github.io/">
+  <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Website" />
+</a>
 </div>
+
+
 ## 🛠️ My Tech Stack
 
 <div align="center">
