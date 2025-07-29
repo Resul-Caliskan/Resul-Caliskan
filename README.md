@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Resul Çalışkan!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=2E9FDD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Developer;Python+Developer;.NET+Developer;NLP+%26+LLM+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=2E9FDD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web Developer;Python+Node.js+NextJs;React/React Native;NLP+%26+LLM+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
